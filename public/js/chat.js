@@ -2,8 +2,8 @@ $(function () {
 
     Pusher.logToConsole = true;
 
-    var pusher = new Pusher('b2dc0176709516bfb755', {
-        cluster: 'ap2',
+    var pusher = new Pusher('e2b8479fc388aae60607', {
+        cluster: 'mt1',
         forceTLS: true
     });
 
